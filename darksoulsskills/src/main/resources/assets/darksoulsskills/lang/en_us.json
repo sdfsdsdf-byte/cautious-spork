@@ -1,0 +1,15 @@
+{
+  "item.darksoulsskills.bonfire": "Bonfire",
+  "item.darksoulsskills.estus_flask": "Estus Flask",
+
+  "itemGroup.darksoulsskills": "Dark Souls Skills",
+
+  "screen.darksoulsskills.levelup": "Level Up",
+
+  "attribute.darksoulsskills.vigor": "Vigor",
+  "attribute.darksoulsskills.endurance": "Endurance",
+  "attribute.darksoulsskills.strength": "Strength",
+  "attribute.darksoulsskills.dexterity": "Dexterity",
+  "attribute.darksoulsskills.intelligence": "Intelligence",
+  "attribute.darksoulsskills.faith": "Faith"
+}
