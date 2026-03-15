@@ -1,0 +1,29 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="darksoulsskills"
+version="1.0.0"
+displayName="Dark Souls Skills"
+description='''
+Adds a Dark Souls-style leveling system to Minecraft.
+Kill enemies to gain Souls. Spend Souls at a Bonfire to level up your attributes:
+Vigor (Max HP), Endurance (Stamina), Strength (Melee Damage), Dexterity (Attack Speed),
+Intelligence (Magic), Faith (Regen).
+Die and lose your Souls - but you can retrieve them!
+'''
+
+[[dependencies.darksoulsskills]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.darksoulsskills]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"

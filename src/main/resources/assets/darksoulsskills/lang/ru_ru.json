@@ -1,0 +1,15 @@
+{
+  "item.darksoulsskills.bonfire": "Костёр",
+  "item.darksoulsskills.estus_flask": "Фляга Эстуса",
+
+  "itemGroup.darksoulsskills": "Dark Souls Прокачка",
+
+  "screen.darksoulsskills.levelup": "Повышение уровня",
+
+  "attribute.darksoulsskills.vigor": "Живучесть",
+  "attribute.darksoulsskills.endurance": "Выносливость",
+  "attribute.darksoulsskills.strength": "Сила",
+  "attribute.darksoulsskills.dexterity": "Ловкость",
+  "attribute.darksoulsskills.intelligence": "Интеллект",
+  "attribute.darksoulsskills.faith": "Вера"
+}
